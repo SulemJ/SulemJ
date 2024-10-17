@@ -3,7 +3,7 @@
 <div align="center">
 <img src="bg.png/" width="300">
 
-### A Passionate Full Stack Web Developer.
+## A Passionate FullStack Web Developer
 </div>
 
 
